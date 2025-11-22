@@ -1,0 +1,25 @@
+# Ignore system files
+Thumbs.db
+desktop.ini
+
+# Ignore user-specific settings
+*.log
+*.tmp
+
+# Ignore PowerShell history
+*.history
+
+# Ignore scripts that shouldn't be uploaded
+*.zip
+*.iso
+*.exe
+
+# Ignore VirtualBox files (optional)
+*.vbox
+*.vdi
+*.vmdk
+*.vmsd
+*.vagrant
+
+# VS Code settings (optional)
+.vscode/
